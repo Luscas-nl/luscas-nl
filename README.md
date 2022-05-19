@@ -1,5 +1,5 @@
 ## Olá!! Me chamo Eduardo Lucas, seja bem-vindo ao meu GitHub 👋
-- 🎓 Técnico em desenvolvimento de sisemas - IFAL
+- 🎓 Técnico em desenvolvimento de sistemas - IFAL
 - 💻 Amante de C# com uma quedinha pelo Python
 <div align="center">
   <a href="https://github.com/luscas-nl">
