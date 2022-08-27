@@ -1,6 +1,8 @@
-## Olá!! Me chamo Eduardo Lucas, seja bem-vindo ao meu GitHub 👋
-- 🎓 Técnico em desenvolvimento de sistemas - IFAL
-- 💻 Amante de C# com uma quedinha pelo Python
+## Hello!! My name is Eduardo Lucas, welcome to my GitHub 👋
+- 🎓 Programming student - IFAL
+- 💻 C# lover with a crush on Python
+- 🍕 Pizza and coffee lover
+- 🎮 Probably competing in a GameJam
 
 <br>
 <div style="display: inline_block">
@@ -15,8 +17,7 @@
 ##
   
 <center><div> 
-  <a href="https://instagram.com/luscas.nl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/luscas.nl" target="https://www.instagram.com/luscas.nl/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardol123azq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
