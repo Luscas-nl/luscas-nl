@@ -1,6 +1,6 @@
 # Hello!! Welcome to my GitHub 👋
 
-[> clique aqui para ler a versão em português](www.github.com)
+[> clique aqui para ler a versão em português](https://github.com/Luscas-nl/luscas-nl/blob/main/README-BR.md)
 <br>
 _copiei do @deisantix mesmo!!!!_
 
