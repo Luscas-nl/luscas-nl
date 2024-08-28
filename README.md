@@ -8,7 +8,7 @@ _copiei do @deisantix mesmo!!!!_
 
 Thank you very much for visiting my GitHub profile, my name is Eduardo Lucas or you can call me Du too.
 
-I have been passionate about programming since I was 12 years old and since then I decided that I would study to work in the field. I've always loved the area of game development and that's why I started studying **C#**, but over time I realized that it wasn't the only area that interested me and that's why my idea of becoming a game programmer changed to become a full stack programmer.
+I have been passionate about programming since I was 12 years old and since then I decided that I would study to work in the field. I've always loved the area of game development and that's why I started studying **C#**, but over time I realized that it wasn't the only area that interested me and that's why my idea of becoming a game programmer changed to become a full stack programmer. For more time i programming in JavaScript whit Reac because i fell in love whit the framework became very specialized in it, but, actually i work whit PL/SQL and Oracle Apex.
 
 Below is a little about the languages I know and a little more.
 
@@ -17,6 +17,7 @@ Below is a little about the languages I know and a little more.
 ## Languages
 <div style="display: inline_block" align="center">
   <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +32,7 @@ Below is a little about the languages I know and a little more.
   <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
+  <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
  
 ## Best Projects
