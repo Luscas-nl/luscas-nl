@@ -8,7 +8,7 @@ _copiei do @deisantix mesmo!!!!_
 
 Thank you very much for visiting my GitHub profile, my name is Eduardo Lucas or you can call me Du too.
 
-I have been passionate about programming since I was 12 years old and since then I decided that I would study to work in the field. I've always loved the area of game development and that's why I started studying **C#**, but over time I realized that it wasn't the only area that interested me and that's why my idea of becoming a game programmer changed to become a full stack programmer. For more time i programming in JavaScript whit Reac because i fell in love whit the framework became very specialized in it, but, actually i work whit PL/SQL and Oracle Apex.
+I have been passionate about programming since I was 12 years old and since then I decided that I would study to work in the field. I've always loved the area of game development and that's why I started studying **C#**, but over time I realized that it wasn't the only area that interested me and that's why my idea of becoming a game programmer changed to become a full stack programmer. For more time i programming in JavaScript whit React because i fell in love whit the framework became very specialized in it, but, actually i work whit PL/SQL and Oracle Apex.
 
 Below is a little about the languages I know and a little more.
 
