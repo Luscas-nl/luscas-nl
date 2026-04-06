@@ -1,45 +1,48 @@
 # Olá!! Bem-vindo ao meu GitHub 👋
 
+<div align="center"> 
+  <a href="https://instagram.com/luscas.nl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/duscax" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/luscas-nl/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+  </a>
+</div>
+
+<br>
+
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" style="width: 325px">
 
 Muito obrigado por visitar meu perfil no GitHub, meu nome é Eduardo Lucas ou pode me chamar de Du também.
 
-Sou apaixonado por programação desde os 12 anos e desde então decidi que estudaria para trabalhar na área. Sempre amei a área de desenvolvimento de jogos e por isso comecei a estudar **C#**, mas com o tempo percebi que não era a única área que me interessava e por isso minha ideia de me tornar um programador de jogos mudou para torne-se um programador full stack.
+Sou apaixonado por programação desde os 12 anos e desde então decidi que estudaria para trabalhar na área. Sempre amei a área de desenvolvimento de jogos e por isso comecei a estudar **C#**, mas com o tempo percebi que não era a única área que me interessava e por isso minha ideia de me tornar um programador de jogos mudou para me tornar um programador full stack.
 
-Abaixo está um pouco sobre as linguagens que conheço e um pouco mais.
+Abaixo está um pouco sobre as linguagens que conheço e algumas outras coisas.
 
-<br>
+## **Back-end & Banco de Dados**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## Linguagens
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Du-Csharp" height="50" width="50" style="padding: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-## Outros
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="Du-Python" height="50" width="50" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+## **Front-end**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-</div>
- 
-## Melhores Projetos
-Eu coloco todos os meus projetos (os que eu lembro hehehehe) no meu GitHub, mas tem alguns que eu recomendo que você dê uma olhada.
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luscas-nl&repo=periodic-table&theme=dracula&hide_border=true)](https://github.com/luscas-nl/periodic-table)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luscas-nl&repo=912A-PWEB&theme=dracula&hide_border=true)](https://github.com/luscas-nl/912A-PWEB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luscas-nl&repo=sistema-de-pedidos&theme=dracula&hide_border=true)](https://github.com/luscas-nl/sistema-de-pedidos)
-
-</div>
-
-<div align="center"> 
-  <a href="https://instagram.com/luscas.nl" target="https://www.instagram.com/luscas.nl/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+## **Outros**
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
